@@ -5,8 +5,6 @@
 ## Badges
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges//p6-stratosphere/&style=flat)](https://mergify.io)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](<https://gitpod.io/#https://github.com//p6-stratosphere>)
 
 ## Summary
 
@@ -24,6 +22,12 @@
 
 ### Functions
 
+## p6-stratosphere
+
+### p6-stratosphere/p6-stratosphere.zsh
+
+- p6df::modules::p6cirrus::init()
+
 ## p6-stratosphere/lib
 
 ### p6-stratosphere/lib/bastion.sh
@@ -34,11 +38,11 @@
 
 ```text
 .
+├── lib
+│   └── bastion.sh
 ├── LICENSE
-├── README.md
-├── init.zsh
-└── lib
-    └── bastion.sh
+├── p6-stratosphere.zsh
+└── README.md
 
 2 directories, 4 files
 ```
