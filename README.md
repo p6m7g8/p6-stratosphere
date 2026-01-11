@@ -26,7 +26,7 @@
 
 ### p6-stratosphere/p6-stratosphere.zsh
 
-- p6df::modules::p6cirrus::init()
+- p6df::modules::p6stratosphere::init()
 
 ## p6-stratosphere/lib
 
