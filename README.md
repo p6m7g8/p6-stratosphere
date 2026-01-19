@@ -22,18 +22,6 @@
 
 ### Functions
 
-## p6-stratosphere
-
-### p6-stratosphere/p6-stratosphere.zsh
-
-- p6df::modules::p6stratosphere::init()
-
-## p6-stratosphere/lib
-
-### p6-stratosphere/lib/bastion.sh
-
-- p6_stratosphere_bastion_connect()
-
 ## Hierarchy
 
 ```text
